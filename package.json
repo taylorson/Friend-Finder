@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Questionarrie ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorson/Friend-Finder.git"
+  },
+  "author": "Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorson/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/taylorson/Friend-Finder#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.4",
+    "path": "^0.12.7"
+  }
+}
